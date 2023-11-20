@@ -1,4 +1,4 @@
 created a new branch for no reason and adding a file in it
 
-adding another line to make a commit
+adding to make a commit
 adding for a dummy commit
